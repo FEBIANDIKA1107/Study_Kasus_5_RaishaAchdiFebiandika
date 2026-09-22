@@ -2,5 +2,6 @@
 NAMA: Raisha Achdi Febiandika <br>
 NIM: 2609116071 <br>
 
-<img width="922" height="456" alt="Cuplikan layar 2026-09-22 171131" src="https://github.com/user-attachments/assets/07263293-74a0-4514-8eb7-4b2f720dfc22" />
+<img width="920" height="459" alt="Cuplikan layar 2026-09-22 184440" src="https://github.com/user-attachments/assets/f37192d5-3fc9-4d0f-a3bf-7bf508935c58" />
+
 
